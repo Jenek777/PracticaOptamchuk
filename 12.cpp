@@ -4,7 +4,7 @@
 using namespace std;
 
 const unsigned int BYTE = 10; 
-const unsigned int STEP = 1;  //  шаг здвигу
+const unsigned int STEP = 1;  //  С€Р°Рі Р·РґРІРёРіСѓ
 
 int main()
 {
@@ -16,7 +16,7 @@ int main()
     cout << "part1\t" << part1 << endl;
 
 
-    cout << "result\t"  << part1 << endl; // результат 
+    cout << "result\t"  << part1 << endl; // СЂРµР·СѓР»СЊС‚Р°С‚ 
 system("pause");
     return 0;
 }
